@@ -1,0 +1,167 @@
+{
+  "categorias": [
+    {
+      "titulo": "iRacing Driving School",
+      "link": "https://www.youtube.com/user/iRacingTV",
+      "cor": "#333bcd",
+      "link_extra": {
+        "text": "Site do iRacing",
+        "url": "https://www.iracing.com"
+      },
+      "videos": [
+        {
+          "titulo": "iRacing.com Driving School Chapter 1: Introduction to the school",
+          "url": "https://www.youtube.com/watch?v=I5eueqw24co"
+        },
+        {
+          "titulo": "iRacing Driving School Chapter 2A: Vehicle Dynamics",
+          "url": "https://www.youtube.com/watch?v=blUk8W3ogRo"
+        },
+        {
+          "titulo": "iRacing.com Driving School Chapter 2B: Vehicle Dynamics",
+          "url": "https://www.youtube.com/watch?v=T4Vvh3tsjEI"
+        },
+        {
+          "titulo": "iRacing.com Driving School Chapter 3A: Fundamentals of the Racing Line & Cornering",
+          "url": "https://www.youtube.com/watch?v=LxMSdvnm0Ms"
+        },
+        {
+          "titulo": "iRacing.com Driving School Chapter 3B: Fundamentals of the Racing Line & Cornering",
+          "url": "https://www.youtube.com/watch?v=ZTSpf6utKto"
+        },
+        {
+          "titulo": "iRacing.com Driving School Chapter 3C: Fundamentals of the Racing Line & Cornering",
+          "url": "https://www.youtube.com/watch?v=iTOs5xBRSt4"
+        }
+      ]
+    },
+    {
+      "titulo": "Global Mazda MX5",
+      "cor": "#f10509",
+      "link_extra": {},
+      "videos": [
+        {
+          "titulo": "IRACING MAZDA MX-5 CUP #4 - MINHA MELHOR CORRIDA!!",
+          "url": "https://www.youtube.com/watch?v=y1lxVAIKq9c"
+        },
+        {
+          "titulo": "iRacing | GLOBAL MAZDA MX5 @ LIME ROCK PARK | ROOKIE SERIES?!",
+          "url": "https://www.youtube.com/watch?v=9bvpb68F23Q"
+        },
+        {
+          "titulo": "iRacing | WHY I LOVE & HATE IRACING | GLOBAL MAZDA @ SUMMIT POINT",
+          "url": "https://www.youtube.com/watch?v=aBLx9b2U9VA"
+        },
+        {
+          "titulo": "iRacing | GLOBAL MAZDA MX5 @ LIME ROCK CHICANE | NO QUAL!",
+          "url": "https://www.youtube.com/watch?v=6dEbJs7_Iqo"
+        },
+        {
+          "titulo": "iRacing | 'Lets learn the track' | Global Mazda MX5 | Okayama Short",
+          "url": "https://www.youtube.com/watch?v=fLag1R1B_L0"
+        }
+      ]
+    },
+    {
+      "titulo": "GT3",
+      "cor": "#6ca409",
+      "link_extra": {},
+      "videos": [
+        {
+          "titulo": "iRacing | LAST VRS SPRINT OF THE WEEK @ ROAD ATLANTA | MERCEDES AMG GT3",
+          "url": "https://www.youtube.com/watch?v=Lg3TTceOnNY"
+        },
+        {
+          "titulo": "Which GT3 car is the fastest in iRacing?",
+          "url": "https://www.youtube.com/watch?v=ycUAs-TJIpg"
+        },
+        {
+          "titulo": "iRacing | ONE OF THE MOST FUN RACES IVE EVER HAD ON IRACING | PORSCHE 911 CUP RACE @ MONZA |",
+          "url": "https://www.youtube.com/watch?v=tbEvl_SGbkI"
+        }
+      ]
+    },
+    {
+      "titulo": "Assetto Corsa Competizione",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Assetto Corsa Competizione na Steam",
+        "url": "https://store.steampowered.com/app/805550/Assetto_Corsa_Competizione/"
+      },
+      "videos": [
+        {
+          "titulo": "ASSETTO CORSA COMPETIZIONE - PRIMEIRAS IMPRESSÕES E CONFIGURAÇÕES",
+          "url": "https://www.youtube.com/watch?v=sLc-nGpjMDU"
+        },
+        {
+          "titulo": "ACC Competition Server | My word, what a race! | Bentley GT3 @ Barcelona",
+          "url": "https://www.youtube.com/watch?v=33f6rpSJ5bQ"
+        },
+        {
+          "titulo": "Assetto Corsa Competizione - Ferrari 488 GT3 - OnBoard@ Nürburgring - Ultrawide 21:9",
+          "url": "https://www.youtube.com/watch?v=lW4BrY7qXO0"
+        },
+        {
+          "titulo": "McLaren 570S GT4 @ Zandvoort | The GT4 cars are here and they are EPIC! | ACC CP Multiclass",
+          "url": "https://www.youtube.com/watch?v=Cy-mv5a9nNI"
+        }
+      ]
+    },
+    {
+      "titulo": "Automobilista 2",
+      "cor": "6a0101",
+      "link_extra": {
+        "text": "Automobilista 2 na Steam",
+        "url": "https://store.steampowered.com/app/1066890/Automobilista_2/"
+      },
+      "videos": [
+        {
+          "titulo": "AUTOMOBILISTA 2 CORRIDA DE OPALA EM INTERLAGOS",
+          "url": "https://www.youtube.com/watch?v=lZQlBIFiUGE"
+        },
+        {
+          "titulo": "AUTOMOBILISTA 2 TUDO QUE VC PRECISA SABER SOBRE CONFIGURAÇÕES",
+          "url": "https://www.youtube.com/watch?v=NKn1KgRf7cM"
+        },
+        {
+          "titulo": "AUTOMOBILISTA 2 - ANÁLISE COMPLETA do novo simulador da Reiza Studios | Flagamer S10E05",
+          "url": "https://www.youtube.com/watch?v=GE4PoL4XFng"
+        },
+        {
+          "titulo": "AUTOMOBILISTA 2 CONFIGURAÇÕES E FORCE FEEDBACK",
+          "url": "https://www.youtube.com/watch?v=0un3mWyQ_04"
+        },
+        {
+          "titulo": "AUTOMOBILISTA 2 STOCK CAR NO VELOPARK",
+          "url": "https://www.youtube.com/watch?v=5Oi-0Qqhd_M"
+        }
+      ]
+    },
+    {
+      "titulo": "F1 2020",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "F1 2020 na Steam",
+        "url": "https://store.steampowered.com/app/1080110/F1_2020/"
+      },
+      "videos": [
+        {
+          "titulo": "F1 2020 Game: Beginners Guide to Getting Faster (Tips & Tricks)",
+          "url": "https://www.youtube.com/watch?v=lXKdB8WzfwI"
+        },
+        {
+          "titulo": "FIRST TIME PLAYING F1 2020",
+          "url": "https://www.youtube.com/watch?v=X6F4NC6YoXk"
+        },
+        {
+          "titulo": "5 Easy Tips to race on F1 2020 without ABS",
+          "url": "https://www.youtube.com/watch?v=P4F_68BiHyQ"
+        },
+        {
+          "titulo": "COMEÇANDO O MY TEAM DO F1 2020. HORA DE APRENDER TUDO.",
+          "url": "https://www.youtube.com/watch?v=bwq0HzFP-uA"
+        }
+      ]
+    }
+  ]
+}
