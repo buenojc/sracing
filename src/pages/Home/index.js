@@ -1,14 +1,15 @@
 import React from 'react';
-import Menu from './components/Menu';
-import BannerMain from './components/BannerMain';
-import VideoCardWrapper from './components/VideoCardWrapper';
-import Carousel from './components/Carousel';
-import data from './data/dados_iniciais.json';
-import Footer from './components/Footer';
+import PageDefault from '../../components/PageDefault';
+import Menu from '../../components/Menu';
+import BannerMain from '../../components/BannerMain';
+import VideoCardWrapper from '../../components/VideoCardWrapper';
+import Carousel from '../../components/Carousel';
+import data from '../../data/dados_iniciais.json';
+import Footer from '../../components/Footer';
 
-function App() {
+function Home() {
   return (
-    <div className='App'>
+    <>
       <Menu />
       <BannerMain
         videoTitle='Ferrari GT3 em Monza - iRacing'
@@ -21,8 +22,8 @@ function App() {
         ))}
       </VideoCardWrapper>
       <Footer />
-    </div>
+    </>
   );
 }
 
-export default App;
+export default Home;
