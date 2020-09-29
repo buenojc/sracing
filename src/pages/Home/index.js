@@ -1,5 +1,4 @@
 import React from 'react';
-import PageDefault from '../../components/PageDefault';
 import Menu from '../../components/Menu';
 import BannerMain from '../../components/BannerMain';
 import VideoCardWrapper from '../../components/VideoCardWrapper';
