@@ -37,7 +37,7 @@ function CadastroCategoria() {
   useEffect(() => {
     const DB_URL = window.location.hostname.includes('localhost')
       ? 'http://localhost:8080/categorias'
-      : 'http://sracing.herokuapp.com/categorias';
+      : 'https://sracing.herokuapp.com/categorias';
     fetch(DB_URL)
       .then(async (response) => {
         const resposta = await response.json();
